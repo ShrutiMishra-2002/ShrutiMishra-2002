@@ -19,7 +19,7 @@
 & an instagram art page (https://www.instagram.com/fantastic_mandala/?utm_medium=copy_link) .
 
 <br>
-# 🛠 &nbsp;SKILLS:
+## 🛠 &nbsp;SKILLS:
 
 - 💻LANGUAGES &nbsp;
  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
