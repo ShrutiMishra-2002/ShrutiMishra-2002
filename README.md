@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Shruti Mishra <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 <h2 align="center"> Always striving to improve myself!</h2>
 
-<p align="center"> <img src="https://octodex.github.com/images/#153 NUXtocat.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
+<p align="center"> <img src="https://octodex.github.com/images/#153NUXtocat.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
    
    ## :wave: ABOUT ME 💁‍♀️: 
@@ -19,7 +19,7 @@
 & an instagram art page (https://www.instagram.com/fantastic_mandala/?utm_medium=copy_link) .
 
 <br>
- 🛠 &nbsp;SKILLS:
+# 🛠 &nbsp;SKILLS:
 
 - 💻LANGUAGES &nbsp;
  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
