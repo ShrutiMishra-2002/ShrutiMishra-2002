@@ -1,21 +1,21 @@
-### Hello F,olks 👋
+### Hello Folks 👋
 <h1 align="center">Hey, I'm Shruti Mishra <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
-<h2 align="center">Changing the world one pixel at a time!</h2>
+<h2 align="center"> MISTAKES ARE PROOF THAT YOU ARE TRYING !</h2>
 
 <p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
    
-   ## :wave: ABOUT ME: 
+   ## :wave: ABOUT ME 💁‍♀️: 
 
-👩‍🎓 Hello! Shruti Mishra here . 
+😃 Hello! Shruti Mishra here . 
 
 :octocat: I am a part of codxcrpty community  I am a [**CODXCRPTY CAMPUS AMBASSADOR**]:octocat:! 
 
 👩‍💻 I am currently working as an Android Developer  
 
-⚡ Fun fact: I love creating artworks, i have my art youtube channel & instagram page .
+⚡ Fun fact: You will always find me online on linkedin 😬.
 
-✍🏻 You will always finding me online on linkedin.
+✍🏻 I love 💝 to create artworks of all kind,I have my own art youtube channel (https://www.youtube.com/channel/UCbSEF01aiA7nSP6Pt3Bllmg) & an instagram page (https://www.instagram.com/fantastic_mandala/?utm_medium=copy_link) .
 
 <br>
 ## 🛠 &nbsp;SKILLS:
