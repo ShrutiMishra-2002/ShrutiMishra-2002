@@ -7,12 +7,12 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
    
-   ## :wave: ABOUT ME 💁‍♀️: 
+   ##  ABOUT ME 💁‍♀️: 
 
  <h3 align="center">A GIRL WITH MANY DREAMS </h3>
 <p><i> I'm Shruti Mishra a 2nd year Artificial Intelligent & Data Science Undergraduate from Thakur College Of Engineering & Technology, Mumbai. I'm a Tech Enthusiast, Budding Full stack Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
 
-:octocat:  I am a part of CODXCRPTY COMMUNITY
+:octocat:  I am a part of CODXCRPTY COMMUNITY<br>
 & also a [**CAMPUS AMBASSADOR**]:octocat:! 
 
 👩‍💻 I am currently working as an Android Developer Intern at letsgrowmore
@@ -20,8 +20,8 @@
 ⚡ Fun fact: You will always find me online on linkedin 😬.
 
 ✍🏻 I love 💝 to create artworks of all kind,I have my own art youtube channel
-(https://www.youtube.com/channel/UCbSEF01aiA7nSP6Pt3Bllmg) 
-& an instagram art page 
+(https://www.youtube.com/channel/UCbSEF01aiA7nSP6Pt3Bllmg) <br>
+& an instagram art page <br>
 (https://www.instagram.com/fantastic_mandala/?utm_medium=copy_link) .
 
 <br>
@@ -40,16 +40,19 @@
   ![wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
   ![wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
 
+
 - 📔FRAMEWORK &nbsp;
  -![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
  -![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
  
- - 📱SOCIAL&nbsp;
+ 
+ 
+-CONNECT WITH ME ON &nbsp;<br><br>
   -![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
   -![quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)
   -![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   -![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-	
+
 <br/>
 <br />
    
