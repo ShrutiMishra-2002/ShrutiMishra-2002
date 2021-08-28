@@ -3,7 +3,7 @@
 <h2 align="center"> Always striving to improve myself!</h2>
 
 <p align="center">  
-![logo](GSCP2.jpg)
+![logo](octodex.mp4)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
