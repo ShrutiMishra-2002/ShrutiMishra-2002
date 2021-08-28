@@ -2,7 +2,8 @@
 <h1 align="center">Hey, I'm Shruti Mishra <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 <h2 align="center"> Always striving to improve myself!</h2>
 
-<p align="center"> <img src="" height="160px" width="160px"> <img src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966Desktop" height="160px" width="160px"> </p> 
+<p align="center">  
+   <img src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966Desktop" height="160px" width="160px"> </p> 
 
    
    ## :wave: ABOUT ME 💁‍♀️: 
