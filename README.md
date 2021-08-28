@@ -3,7 +3,7 @@
 <h2 align="center"> Always striving to improve myself!</h2>
 
 <p align="center">  
-![logo](octodex.mp4)
+![logo](https://cdn5.vectorstock.com/i/1000x1000/38/44/girl-working-on-computer-vector-6373844.jpg)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
