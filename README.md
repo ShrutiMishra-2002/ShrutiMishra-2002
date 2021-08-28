@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hello F,olks 👋
+<h1 align="center">Hey, I'm Shruti Mishra <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
+<h2 align="center">Changing the world one pixel at a time!</h2>
 
-<!--
-**ShrutiMishra-2002/ShrutiMishra-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> </p>
 
-Here are some ideas to get you started:
+   
+   ## :wave: ABOUT ME: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍🎓 Hello! Shruti Mishra here . 
+
+:octocat: I am a part of codxcrpty community  I am a [**CODXCRPTY CAMPUS AMBASSADOR**]:octocat:! 
+
+👩‍💻 I am currently working as an Android Developer  
+
+⚡ Fun fact: I love creating artworks, i have my art youtube channel & instagram page .
+
+✍🏻 You will always finding me online on linkedin.
+
+<br>
+## 🛠 &nbsp;SKILLS:
+
+- 💻 &nbsp;
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+<br/>
+<br />
+   
