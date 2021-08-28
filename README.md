@@ -35,8 +35,9 @@
 - 📔FRAMEWORK &nbsp;
  -![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
  
- - 📱SOCIAL &nbsp;
-  - ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+ 
+ - 📱SOCIAL&nbsp;
+  -![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <br/>
 <br />
