@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Shruti Mishra <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 <h2 align="center"> Always striving to improve myself!</h2>
 
-<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/kimonotocat.gif" height="160px" width="160px"> </p>
+<p align="center"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="C:\Users\dharm\Desktop" height="160px" width="160px"> </p> 
 
    
    ## :wave: ABOUT ME 💁‍♀️: 
