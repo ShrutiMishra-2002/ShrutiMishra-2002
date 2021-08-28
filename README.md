@@ -19,18 +19,21 @@
 & an instagram art page (https://www.instagram.com/fantastic_mandala/?utm_medium=copy_link) .
 
 <br>
-## 🛠 &nbsp;SKILLS:
+ 🛠 &nbsp;SKILLS:
 
-- 💻 &nbsp;
+- 💻LANGUAGES &nbsp;
  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
   
-- 🌐 &nbsp;
+- 🌐WEB BROWSERS &nbsp;
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+  
+- 📔FRAMEWORK &nbsp;
+ -![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 <br/>
 <br />
