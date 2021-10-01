@@ -15,15 +15,15 @@
 :octocat:  I am a part of CODING NINJAS AND CODXCRPTY COMMUNITY<br>
 & also a [**CAMPUS AMBASSADOR**]:octocat:! 
 
-👩‍💻 I am currently working as an Android Developer Intern at letsgrowmore
+👩‍💻 Former Android Developer Intern at letsgrowmore
 
 ⚡ Fun fact: You will always find me online on linkedin 😬.
 
-✍🏻 I love 💝 to create artworks of all kind,I have my own art youtube channel
-(https://www.youtube.com/channel/UCbSEF01aiA7nSP6Pt3Bllmg) <br>
-& an instagram art page <br>
+<p>✍🏻 I love 💝 to create artworks of all kind,I have my own art youtube channel
+(https://www.youtube.com/channel/UCbSEF01aiA7nSP6Pt3Bllmg) 
+& an instagram art page 
 (https://www.instagram.com/fantastic_mandala/?utm_medium=copy_link) .
-
+</p>
 <br>
 ## 🛠 &nbsp;SKILLS:
 
