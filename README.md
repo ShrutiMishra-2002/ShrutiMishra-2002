@@ -20,8 +20,8 @@
 ⚡ Fun fact: You will always find me online on linkedin 😬.
 
 <p>✍🏻 I love 💝 to create artworks of all kind,<br>
-I have my own art youtube channel (https://www.youtube.com/channel/UCbSEF01aiA7nSP6Pt3Bllmg) <br>
-& an instagram art page (https://www.instagram.com/fantastic_mandala/?utm_medium=copy_link) <br>
+My youtube art channel (https://www.youtube.com/channel/UCbSEF01aiA7nSP6Pt3Bllmg) <br>
+My instagram art page (https://www.instagram.com/fantastic_mandala/?utm_medium=copy_link) <br>
 </p>
 
  <p>:woman_student: My Portfolio :- https://shrutimishra-2002.github.io/Portfoliowebsite/</p>
