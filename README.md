@@ -25,6 +25,8 @@ My instagram art page (https://www.instagram.com/fantastic_mandala/?utm_medium=c
 </p>
 
  <p>:woman_student: My Portfolio :- https://shrutimishra-2002.github.io/Portfoliowebsite/</p>
+  <br><br>
+
 ## 🛠 &nbsp;SKILLS:
 
 - 💻LANGUAGES &nbsp;
