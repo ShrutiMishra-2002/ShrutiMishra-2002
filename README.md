@@ -48,7 +48,7 @@ My instagram art page (https://www.instagram.com/fantastic_mandala/?utm_medium=c
  ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)<br>
  
  
--:books:DATABASE &nbsp;
+- :books:DATABASE &nbsp;
  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
  <br><br><br>
 
