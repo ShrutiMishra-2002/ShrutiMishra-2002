@@ -35,7 +35,6 @@ My instagram art page (https://www.instagram.com/fantastic_mandala/?utm_medium=c
   ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
-  
 - 🌐WEB BROWSERS &nbsp;
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
