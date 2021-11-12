@@ -28,9 +28,12 @@ My instagram art page (https://www.instagram.com/fantastic_mandala/?utm_medium=c
 ## 🛠 &nbsp;SKILLS:
 
 - 💻LANGUAGES &nbsp;
- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 
   
 - 🌐WEB BROWSERS &nbsp;
@@ -44,9 +47,12 @@ My instagram art page (https://www.instagram.com/fantastic_mandala/?utm_medium=c
 - 📔FRAMEWORK &nbsp;
  ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
  ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)<br>
+ 
+ 
+-:books:DATABASE &nbsp;
+ ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
  <br><br><br>
- 
- 
+
  
  
 <span>CONNECT WITH ME ON &nbsp;</span>
