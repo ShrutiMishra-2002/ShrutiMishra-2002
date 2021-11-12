@@ -45,6 +45,8 @@ My instagram art page (https://www.instagram.com/fantastic_mandala/?utm_medium=c
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
   ![wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
+  ![Google Cloud]()
+         
 
 
 - 📔FRAMEWORK &nbsp;
