@@ -17,7 +17,7 @@
 
 👩‍💻 Former Android Developer Intern at letsgrowmore
 
-:red_circle: :yellow_circle: :green_circle: :large_blue_circle: Graphic Core Committee Member at ##GOOGLE DEVELOPER STUDENT CLUB
+:red_circle: :yellow_circle: :green_circle: :large_blue_circle: Graphic Core Committee Member at [**GOOGLE DEVELOPER STUDENT CLUB**]
 
 ⚡ Fun fact: You will always find me online on linkedin 😬.
 
