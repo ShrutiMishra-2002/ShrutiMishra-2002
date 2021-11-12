@@ -19,12 +19,12 @@
 
 ⚡ Fun fact: You will always find me online on linkedin 😬.
 
-<p>✍🏻 I love 💝 to create artworks of all kind,I have my own art youtube channel
-(https://www.youtube.com/channel/UCbSEF01aiA7nSP6Pt3Bllmg) 
-& an instagram art page 
-(https://www.instagram.com/fantastic_mandala/?utm_medium=copy_link) .
+<p>✍🏻 I love 💝 to create artworks of all kind,<br>
+I have my own art youtube channel (https://www.youtube.com/channel/UCbSEF01aiA7nSP6Pt3Bllmg) <br>
+& an instagram art page (https://www.instagram.com/fantastic_mandala/?utm_medium=copy_link) <br>
 </p>
 <br>
+ <p> My Portfolio :- https://shrutimishra-2002.github.io/Portfoliowebsite/</p>
 ## 🛠 &nbsp;SKILLS:
 
 - 💻LANGUAGES &nbsp;
