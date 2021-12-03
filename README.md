@@ -10,7 +10,12 @@
    ##  ABOUT ME 💁‍♀️: 
 
  <h3 align="center">A GIRL WITH MANY DREAMS </h3>
-<p><i> I'm Shruti Mishra a 2nd year Artificial Intelligent & Data Science Undergraduate from Thakur College Of Engineering & Technology, Mumbai. I'm a Tech Enthusiast, Budding Full stack Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
+<p><i> I'm A 2nd Year Artificial Intelligent & Data Science Undergraduate From Thakur College Of Engineering & Technology, Mumbai.
+I'm A Tech Enthusiast,
+Currently Exploring The Domains Of Web Development, Android Development, Python GUI And Open CV By Implementing Them To My Projects.
+I Love Contributing To Open Source Community.
+
+</i></p>
 
 :octocat:  I am a part of CODING NINJAS AND CODXCRPTY COMMUNITY<br>
 & also a [**CAMPUS AMBASSADOR**]:octocat:! 
