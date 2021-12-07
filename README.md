@@ -81,7 +81,7 @@ My instagram art page (https://www.instagram.com/fantastic_mandala/?utm_medium=c
 
 <br><br><br>
 
-![Shruti's github streaks](https://github-readme-streak-stats.herokuapp.com/?user={ShrutiMishra-2002})
+![Shruti's github streaks](https://github-readme-streak-stats.herokuapp.com/?user=ShrutiMishra-2002)
 
 <br><br><br>
 
