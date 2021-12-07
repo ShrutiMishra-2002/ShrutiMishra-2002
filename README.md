@@ -34,7 +34,7 @@ My instagram art page (https://www.instagram.com/fantastic_mandala/?utm_medium=c
  <p>:woman_student: My Portfolio :- https://shrutimishra-2002.github.io/Portfoliowebsite/</p>
   <br><br>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiMishra-2002)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiMishra-2002)
   <br><br><br>
 
 ## 🛠 &nbsp;SKILLS:
