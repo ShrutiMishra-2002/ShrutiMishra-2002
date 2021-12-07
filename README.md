@@ -33,6 +33,9 @@ My instagram art page (https://www.instagram.com/fantastic_mandala/?utm_medium=c
 
  <p>:woman_student: My Portfolio :- https://shrutimishra-2002.github.io/Portfoliowebsite/</p>
   <br><br>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiMishra-2002)]
+  <br><br><br>
 
 ## 🛠 &nbsp;SKILLS:
 
@@ -62,7 +65,6 @@ My instagram art page (https://www.instagram.com/fantastic_mandala/?utm_medium=c
  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
  <br><br><br>
  ![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=ShrutiMishra-2002&show_icons=true&theme=merko)
-![Shruti's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrutiMishra-2002&show_icons=true&theme=radical)
 
   <br><br><br>
 
