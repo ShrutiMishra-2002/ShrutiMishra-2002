@@ -61,7 +61,6 @@ My instagram art page (https://www.instagram.com/fantastic_mandala/?utm_medium=c
 - :books:DATABASE &nbsp;
  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
  <br><br><br>
- /*![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=ShrutiMishra-2002)*/
  ![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=ShrutiMishra-2002&show_icons=true&theme=merko)
 
   <br><br><br>
