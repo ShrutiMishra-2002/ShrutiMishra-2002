@@ -65,13 +65,26 @@ My instagram art page (https://www.instagram.com/fantastic_mandala/?utm_medium=c
  
 - :books:DATABASE &nbsp;
  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+ 
+ 
+ - :art:Design &nbsp;
+ ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+ ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+ 
+ 
+ - :iphone:Development &nbsp;
+ [Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
  <br><br><br>
  
- ![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=ShrutiMishra-2002&show_icons=true&theme=merko)
+![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=ShrutiMishra-2002&show_icons=true&theme=merko)
 
-  <br><br><br>
+<br><br><br>
 
- 
+![Shruti's github streaks](https://github-readme-streak-stats.herokuapp.com/?user={ShrutiMishra-2002})
+
+<br><br><br>
+
 <span>CONNECT WITH ME ON &nbsp;</span>
   <span><a  href="https://www.linkedin.com/in/shruti-mishra-b270a7203" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></span>
   <span><a  href="https://www.quora.com/profile/Shruti-Mishra-710"><img alt=" Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a></span>
