@@ -17,7 +17,7 @@
    
    ##  ABOUT ME 💁‍♀️: 
 
- <h3 align="center">A GIRL WITH MANY DREAMS </h3>
+ <!--<h3 align="center">A GIRL WITH MANY DREAMS </h3>-->
 <p><i> I'm A 2nd Year Artificial Intelligent & Data Science Undergraduate From Thakur College Of Engineering & Technology, Mumbai.
 I'm A Tech Enthusiast,
 Currently Exploring The Domains Of Web Development, Android Development, Python GUI And Open CV By Implementing Them To My Projects.
