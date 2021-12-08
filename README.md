@@ -3,7 +3,7 @@
 <h2 align="center"> Always striving to improve myself!</h2>
 <p align="center">
 <!--<img src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966" height=400px width=600px>-->
-<img src="banner.jpeg" height=200px  width=400px>
+<img src="banner.jpeg" height=300px  width=700px>
 
 </p>
 <br >
