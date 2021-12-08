@@ -35,14 +35,17 @@ I Love Contributing To Open Source Community.
 ⚡ Fun fact: You will always find me online on linkedin 😬.
 
 <p>✍🏻 I love 💝 to create artworks of all kind,<br>
-My youtube art channel (https://www.youtube.com/channel/UCbSEF01aiA7nSP6Pt3Bllmg) <br>
-My instagram art page (https://www.instagram.com/fantastic_mandala/?utm_medium=copy_link) <br>
+My youtube art channel <span> <a  href="https://youtube.com/channel/UCbSEF01aiA7nSP6Pt3Bllmg" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a></span>
+<br>
+My instagram art page <a href="https://www.instagram.com/fantastic_mandala/?utm_medium=copy_link" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+"></a></span>
+<br>
 </p>
 
  <p>:woman_student: My Portfolio :- https://shrutimishra-2002.github.io/Portfoliowebsite/</p>
   <br><br>
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiMishra-2002)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiMishra-2002)
   <br><br><br>
 
 ## 🛠 &nbsp;SKILLS:
