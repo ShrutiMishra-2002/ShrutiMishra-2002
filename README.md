@@ -52,9 +52,9 @@ My instagram art page (https://www.instagram.com/fantastic_mandala/?utm_medium=c
 - 🌐WEB BROWSERS &nbsp;
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/google%20cloud-21759B?style=for-the-badge&logo=googlecloud&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/google%20cloud-21759B?style=for-the-badge&logo=googlecloud&logoColor=white)
          
 
 - 📔FRAMEWORK &nbsp;
