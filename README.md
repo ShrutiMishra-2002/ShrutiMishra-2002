@@ -54,7 +54,6 @@ My instagram art page (https://www.instagram.com/fantastic_mandala/?utm_medium=c
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-  ![wix](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)
   ![Google Cloud](https://img.shields.io/badge/google%20cloud-21759B?style=for-the-badge&logo=googlecloud&logoColor=white)
          
 
@@ -73,7 +72,7 @@ My instagram art page (https://www.instagram.com/fantastic_mandala/?utm_medium=c
  
  
  - :iphone:Development &nbsp;
- [Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+ ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
  <br><br><br>
  
