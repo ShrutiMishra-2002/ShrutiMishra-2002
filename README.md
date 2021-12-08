@@ -102,4 +102,5 @@ My instagram art page (https://www.instagram.com/fantastic_mandala/?utm_medium=c
 <br/>
 <br />
    
-  <div align=center>:copyright: Shruti Mishra</center>
+  <!--<div align=center>:copyright: Shruti Mishra</center>-->
+  <div align="center">© 2021 Shruti Mishra </div>
