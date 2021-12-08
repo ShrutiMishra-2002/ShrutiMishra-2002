@@ -6,7 +6,7 @@
 <img src="banner.jpeg" height=350px  width=700px>
 
 </p>
-<br><br>
+<br>
 <h2 align="center"> Always striving to improve myself!</h2>
 
 <br ><br>
