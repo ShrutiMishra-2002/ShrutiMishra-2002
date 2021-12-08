@@ -1,4 +1,5 @@
 <!--### Hello Folks 👋-->
+<br>
 <h1 align="center">Hello, I'm Shruti Mishra <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1> 
 <br>
 <p align="center">
