@@ -18,7 +18,7 @@
    ##  ABOUT ME 💁‍♀️: 
 
  <!--<h3 align="center">A GIRL WITH MANY DREAMS </h3>-->
-<p><i> I'm A 2nd Year Artificial Intelligent & Data Science Undergraduate From Thakur College Of Engineering & Technology, Mumbai.
+<p><i> I'm A 2nd Year Artificial Intelligence & Data Science Undergraduate From Thakur College Of Engineering & Technology, Mumbai.
 I'm A Tech Enthusiast,
 Currently Exploring The Domains Of Web Development, Android Development, Python GUI And Open CV By Implementing Them To My Projects.
 I Love Contributing To Open Source Community.
@@ -106,5 +106,5 @@ My instagram art page: Fantastic_Mandala <br><br>
 <br/>
 <br />
    
-  <!--<div align=center>:copyright: Shruti Mishra</center>-->
-  <div align="center">© 2021 Shruti Mishra </div>
+  <div align=center>:copyright: Shruti Mishra</center></div>
+  <!-- <div align="center">© 2021 Shruti Mishra </div> -->
