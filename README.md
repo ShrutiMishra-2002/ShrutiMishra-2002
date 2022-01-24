@@ -91,6 +91,10 @@ My instagram art page: Fantastic_Mandala <br><br>
 
  <br><br><br>
 
+ ![Shruti's github language stats](https://github.com/username/github-stats/blob/master/generated/languages.svg)
+ <br><br><br>
+
+
 ![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=ShrutiMishra-2002&show_icons=true&theme=merko)
 
 <br><br><br>
