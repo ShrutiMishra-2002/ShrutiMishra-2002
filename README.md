@@ -86,9 +86,8 @@ My instagram art page: Fantastic_Mandala <br><br>
  - :iphone:Development &nbsp;
  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
- <br><br><br>
 
-- 👩‍💻:IDE &nbsp;
+- 👩‍💻IDE &nbsp;
 
  ![SparkAr](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=SparkAR&logoColor=white)
 
