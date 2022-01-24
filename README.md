@@ -87,7 +87,13 @@ My instagram art page: Fantastic_Mandala <br><br>
  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
  <br><br><br>
- 
+
+- 👩‍💻:IDE &nbsp;
+
+ ![SparkAr](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=SparkAR&logoColor=white)
+
+ <br><br><br>
+
 ![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=ShrutiMishra-2002&show_icons=true&theme=merko)
 
 <br><br><br>
