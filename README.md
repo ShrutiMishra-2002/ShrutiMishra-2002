@@ -91,7 +91,14 @@ My instagram art page: Fantastic_Mandala <br><br>
 
  <br><br><br>
 
- ![](https://github.com/ShrutiMishra-2002/github-stats/blob/master/generated/languages.svg)
+ <!-- ![](https://github.com/ShrutiMishra-2002/github-stats/blob/master/generated/languages.svg) -->
+ <a href="https://github.com/jstrieb/github-stats">
+
+![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
+
+</a>
+
  <br><br><br>
 
 
