@@ -91,7 +91,7 @@ My instagram art page: Fantastic_Mandala <br><br>
 
  <br><br><br>
 
- ![Shruti's github language stats](https://github.com/username/github-stats/blob/master/generated/languages.svg)
+ ![](https://github.com/username/github-stats/blob/master/generated/languages.svg)
  <br><br><br>
 
 
