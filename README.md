@@ -97,11 +97,11 @@ My instagram art page: Fantastic_Mandala <br><br>
 <br><br><br>
 
 ![Shruti's github streaks](https://github-readme-streak-stats.herokuapp.com/?user=ShrutiMishra-2002)
-
+<!-- 
 <br><br><br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShrutiMishra-2002&repo=Festival-website)]
-(https://github.com/ShrutiMishra-2002/Festive-Greetings)
+(https://github.com/ShrutiMishra-2002/Festive-Greetings) -->
 
 <br><br><br>
 
