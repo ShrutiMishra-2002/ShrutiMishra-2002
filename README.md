@@ -100,7 +100,7 @@ My instagram art page: Fantastic_Mandala <br><br>
 
 <br><br><br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShrutiMishra-2002&repo=github-readme-stats)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShrutiMishra-2002&repo=Festival-website)]
 (https://github.com/ShrutiMishra-2002/Festive-Greetings)
 
 <br><br><br>
