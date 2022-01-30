@@ -100,6 +100,11 @@ My instagram art page: Fantastic_Mandala <br><br>
 
 <br><br><br>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShrutiMishra-2002&repo=github-readme-stats)]
+(https://github.com/ShrutiMishra-2002/Festive-Greetings)
+
+<br><br><br>
+
 <span>CONNECT WITH ME ON &nbsp;</span>
   <span><a  href="https://www.linkedin.com/in/shruti-mishra-b270a7203" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></span>
   <span><a  href="https://www.quora.com/profile/Shruti-Mishra-710"><img alt=" Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a></span>
