@@ -110,5 +110,7 @@ My instagram art page: Fantastic_Mandala <br><br>
 <br/>
 <br />
    
-  <div align=center>:copyright: Shruti Mishra</center></div>
+  <!-- <div align=center>:copyright: Shruti Mishra</center></div> -->
   <!-- <div align="center">© 2021 Shruti Mishra </div> -->
+  <div align="center">
+© 2021 Shruti Mishra </div>
