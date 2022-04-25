@@ -4,7 +4,7 @@
 <br>
 <p align="center">
 <!--<img src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966" height=400px width=600px>-->
-<img src="banner.jpeg" height=350px  width=700px>
+<!-- <img src="banner.jpeg" height=350px  width=700px> -->
 
 </p>
 <br>
@@ -12,7 +12,7 @@
 
 <br ><br>
 
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif"> -->
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 ![Shruti Mishra](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/trilokia.svg)
 
    
