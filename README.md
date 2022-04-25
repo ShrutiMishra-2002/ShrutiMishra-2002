@@ -1,13 +1,13 @@
 <!--### Hello Folks 👋-->
-<br>
+<!-- <br> -->
 <!-- <h1 align="center">Hello, I'm Shruti Mishra <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h1>  -->
-<br>
+<!-- <br> -->
 <!-- <p align="center"> -->
 <!--<img src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966" height=400px width=600px>-->
 <!-- <img src="banner.jpeg" height=350px  width=700px> -->
 
 <!-- </p> -->
-<br>
+<!-- <br> -->
 <!-- <h2 align="center"> Always striving to improve myself!</h2> -->
 
 <!-- <br ><br> -->
