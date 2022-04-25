@@ -121,5 +121,8 @@ My instagram art page: Fantastic_Mandala <br><br>
    
   <!-- <div align=center>:copyright: Shruti Mishra</center></div> -->
   <!-- <div align="center">© 2021 Shruti Mishra </div> -->
+
   <div align="center">
 © 2021 Shruti Mishra </div>
+![Shruti Mishra](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+
