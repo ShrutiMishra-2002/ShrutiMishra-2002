@@ -8,12 +8,12 @@
 <img src="banner.jpeg" height=350px  width=700px>
 
 </p>
-<br>
+<!-- <br>
 <div align="center" width="50">
 
 <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 
-</div>
+</div> -->
 <br>
 <h2 align="center"> Always striving to improve myself!</h2>
 
