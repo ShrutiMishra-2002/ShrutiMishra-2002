@@ -1,6 +1,6 @@
 ### Hello Folks 👋
 <br>
-<h1 align="center">Hello, I'm Shruti Mishra 👋</h1> <br>
+<h1 align="center">I'm Shruti Mishra 👋</h1> <br>
 <!-- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="10px"> -->
 
 <p align="center">
