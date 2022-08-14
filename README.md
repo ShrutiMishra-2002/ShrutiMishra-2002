@@ -1,4 +1,5 @@
 ### Hello Folks 👋
+
 <br>
 <h1 align="center">I'm Shruti Mishra 👋</h1> <br>
 <!-- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="10px"> -->
@@ -22,8 +23,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <!-- ![Shruti Mishra](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/trilokia.svg) -->
 
-   
-   ##  ABOUT ME 💁‍♀️: 
+## ABOUT ME 💁‍♀️:
 
  <!--<h3 align="center">A GIRL WITH MANY DREAMS </h3>-->
 <p><i> I'm A 3rd Year Artificial Intelligence & Data Science Undergraduate From Thakur College Of Engineering & Technology, Mumbai.
@@ -33,8 +33,8 @@ I Love Contributing To Open Source Community.
 
 </i></p>
 
-:octocat:  I am a part of CODING NINJAS AND CODXCRPTY COMMUNITY<br>
-& also a [**CAMPUS AMBASSADOR**]:octocat:! 
+:octocat: I am a part of CODING NINJAS AND CODXCRPTY COMMUNITY<br>
+& also a [**CAMPUS AMBASSADOR**]:octocat:!
 
 👩‍💻 Former Android Developer Intern at letsgrowmore
 
@@ -51,10 +51,19 @@ My instagram art page: Fantastic_Mandala <br><br>
 <br><br>
 </p>
 
- <p>:woman_student: My Portfolio :- https://shrutimishra-2002.github.io/Portfoliowebsite/</p>
+ <p>:woman_student: My Portfolio :- https://shrutimishraportfolio.netlify.app/</p>
   <br><br>
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiMishra-2002)
+  <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiMishra-2002) -->
+  ### :zap: Most used languages ❤️
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+<p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=vikash-8090-yadav&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikash-8090-yadav&theme=dracula" alt=""><br>
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikash-8090-yadav&theme=dracula">
+    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashSingh3031&theme=radical&utcOffset=5"> 
+</a>
+</p>
   <br><br><br>
 
 ## 🛠 &nbsp;SKILLS:
@@ -68,93 +77,76 @@ My instagram art page: Fantastic_Mandala <br><br>
   ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-323330?style=for-the-badge&logo=django&logoColor=F7DF1E)
 
-
-
 - 🌐WEB BROWSERS &nbsp;
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
   ![Google Cloud](https://img.shields.io/badge/google%20cloud-21759B?style=for-the-badge&logo=googlecloud&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-         
 
 - 📔FRAMEWORK &nbsp;
- ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
- ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)<br>
- 
- 
-- :books:DATABASE &nbsp;
- ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
- 
- 
- - :art:Design &nbsp;
- ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
- ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
- 
- 
- - :iphone:Development &nbsp;
- ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)<br>
 
+- :books:DATABASE &nbsp;
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+- :art:Design &nbsp;
+  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+- :iphone:Development &nbsp;
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 - 👩‍💻IDE &nbsp; ![SparkAr](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=SparkAR&logoColor=white)
 
- <br><br><br>
-
+<br><br><br>
 
 <!-- ![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=ShrutiMishra-2002&show_icons=true&theme=merko) -->
 <!-- LeetCode Stats Card ❤️ -->
+
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
 <h2 align="center"><img src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
 <p align="center">
-  <a href="https://leetcode.com/yadav621gzp" target="_blank">
-    <img width=60% src="https://leetcode.card.workers.dev/?username=yadav621gzp&theme=dark&extension=activity&border_radius=10"/>
+  <a href="https://leetcode.com/mishrashru2002/" target="_blank">
+    <img width=60% src="https://leetcode.card.workers.dev/?username=mishrashru2002&theme=dark&extension=activity&border_radius=10"/>
   </a>
 </p>
 
-### :zap: Most used languages ❤️
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+<!-- ### :zap: GitHub Stats 📈
 
-<p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=vikash-8090-yadav&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikash-8090-yadav&theme=dracula" alt=""><br>
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikash-8090-yadav&theme=dracula">
-    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashSingh3031&theme=radical&utcOffset=5"> 
-</a>
-</p>
-
-
-
-### :zap: GitHub Stats 📈
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p align="center">&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikash-8090-yadav&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash-8090-yadav&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikash-8090-yadav&theme=dracula" />
-</p>
-
-
-
+</p> -->
+<br><br><br>
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
 <br><br><br>
 
 ![Shruti's github streaks](https://github-readme-streak-stats.herokuapp.com/?user=ShrutiMishra-2002)
-<!-- 
+
+<!--
 <br><br><br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShrutiMishra-2002&repo=Festival-website)]
 (https://github.com/ShrutiMishra-2002/Festive-Greetings) -->
 
 <br><br><br>
+
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=ShrutiMishra-2002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <br><br><br>
 
 <span>CONNECT WITH ME ON &nbsp;</span>
-  <span><a  href="https://www.linkedin.com/in/shruti-mishra-b270a7203" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></span>
-  <span><a  href="https://www.quora.com/profile/Shruti-Mishra-710"><img alt=" Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a></span>
- <span> <a  href=" https://www.linkedin.com/in/shruti-mishra-b270a7203"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></span>
- <span> <a  href="https://youtube.com/channel/UCbSEF01aiA7nSP6Pt3Bllmg" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a></span>
-  
+<span><a  href="https://www.linkedin.com/in/shruti-mishra-b270a7203" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></span>
+<span><a  href="https://www.quora.com/profile/Shruti-Mishra-710"><img alt=" Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a></span>
+<span> <a  href=" https://www.linkedin.com/in/shruti-mishra-b270a7203"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></span>
+<span> <a  href="https://youtube.com/channel/UCbSEF01aiA7nSP6Pt3Bllmg" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a></span>
 
 <br/>
 <br />
@@ -166,4 +158,3 @@ My instagram art page: Fantastic_Mandala <br><br>
 © 2021 Shruti Mishra </div>
 <!-- ![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg) -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
-
