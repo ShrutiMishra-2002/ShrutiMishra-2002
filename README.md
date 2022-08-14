@@ -57,10 +57,10 @@ My instagram art page: Fantastic_Mandala <br><br>
   ### :zap: Most used languages ❤️
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiMishra-2002	&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShrutiMishra-2002	&theme=dracula" alt=""><br>
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShrutiMishra-2002	&theme=dracula">
-    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShrutiMishra-2002	&theme=radical&utcOffset=5"> 
+<p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiMishra-2002&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShrutiMishra-2002&theme=dracula" alt=""><br>
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShrutiMishra-2002&theme=dracula">
+    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShrutiMishra-2002&theme=radical&utcOffset=5"> 
 </a>
 </p>
 
