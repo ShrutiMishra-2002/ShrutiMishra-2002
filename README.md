@@ -101,7 +101,39 @@ My instagram art page: Fantastic_Mandala <br><br>
  <br><br><br>
 
 
-![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=ShrutiMishra-2002&show_icons=true&theme=merko)
+<!-- ![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=ShrutiMishra-2002&show_icons=true&theme=merko) -->
+<!-- LeetCode Stats Card ❤️ -->
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+<h2 align="center"><img src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
+<p align="center">
+  <a href="https://leetcode.com/yadav621gzp" target="_blank">
+    <img width=60% src="https://leetcode.card.workers.dev/?username=yadav621gzp&theme=dark&extension=activity&border_radius=10"/>
+  </a>
+</p>
+
+### :zap: Most used languages ❤️
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+<p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=vikash-8090-yadav&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikash-8090-yadav&theme=dracula" alt=""><br>
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikash-8090-yadav&theme=dracula">
+    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashSingh3031&theme=radical&utcOffset=5"> 
+</a>
+</p>
+
+
+
+### :zap: GitHub Stats 📈
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
+
+<p align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikash-8090-yadav&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash-8090-yadav&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikash-8090-yadav&theme=dracula" />
+</p>
+
+
 
 <br><br><br>
 
