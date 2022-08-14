@@ -56,10 +56,10 @@ My instagram art page: Fantastic_Mandala <br><br>
   ### :zap: Most used languages ❤️
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
-<p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=vikash-8090-yadav&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vikash-8090-yadav&theme=dracula" alt=""><br>
-    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vikash-8090-yadav&theme=dracula">
-    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkashSingh3031&theme=radical&utcOffset=5"> 
+<p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiMishra-2002	&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShrutiMishra-2002	&theme=dracula" alt=""><br>
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShrutiMishra-2002	&theme=dracula">
+    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShrutiMishra-2002	&theme=radical&utcOffset=5"> 
 </a>
 </p>
   <br><br><br>
@@ -100,9 +100,6 @@ My instagram art page: Fantastic_Mandala <br><br>
 
 <br><br><br>
 
-<!-- ![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=ShrutiMishra-2002&show_icons=true&theme=merko) -->
-<!-- LeetCode Stats Card ❤️ -->
-<!-- <h2 align="center"><img src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2> -->
 ### :zap: LeetCode Stats Card  ❤️
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 <p align="center">
@@ -116,29 +113,15 @@ My instagram art page: Fantastic_Mandala <br><br>
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p align="center">&nbsp;
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShrutiMishra-2002&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br><br> -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShrutiMishra-2002&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShrutiMishra-2002&theme=dracula" />
 </p>
 
-<!--
 <br><br><br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShrutiMishra-2002&repo=Festival-website)]
-(https://github.com/ShrutiMishra-2002/Festive-Greetings) -->
-
-<br><br><br>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=ShrutiMishra-2002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <br><br><br>
 
-<!-- <span>CONNECT WITH ME ON &nbsp;</span>
-<span><a  href="https://www.linkedin.com/in/shruti-mishra-b270a7203" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></span>
-<span><a  href="https://www.quora.com/profile/Shruti-Mishra-710"><img alt=" Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a></span>
-<span> <a  href=" https://www.linkedin.com/in/shruti-mishra-b270a7203"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></span>
-<span> <a  href="https://youtube.com/channel/UCbSEF01aiA7nSP6Pt3Bllmg" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a></span> -->
  <h4 align="center">Wait!👋 don't forget to check out my social media handles <img align="center" src="images\Handshake.gif" height="30px"></h4>
 
 <p align="center">
@@ -153,9 +136,6 @@ My instagram art page: Fantastic_Mandala <br><br>
 </p>
 <br/>
 <br />
-   
-  <!-- <div align=center>:copyright: Shruti Mishra</center></div> -->
-  <!-- <div align="center">© 2021 Shruti Mishra </div> -->
 
   <div align="center">
 © 2021 Shruti Mishra </div>
