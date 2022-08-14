@@ -104,7 +104,8 @@ My instagram art page: Fantastic_Mandala <br><br>
 
 <!-- ![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=ShrutiMishra-2002&show_icons=true&theme=merko) -->
 <!-- LeetCode Stats Card ❤️ -->
-<h2 align="center"><img src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
+<!-- <h2 align="center"><img src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2> -->
+### :zap: LeetCode Stats Card  ❤️
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 <p align="center">
   <a href="https://leetcode.com/mishrashru2002/" target="_blank">
@@ -117,7 +118,7 @@ My instagram art page: Fantastic_Mandala <br><br>
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShrutiMishra-2002&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br><br>
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShrutiMishra-2002&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br><br> -->
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShrutiMishra-2002&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShrutiMishra-2002&theme=dracula" />
 </p>
@@ -135,12 +136,25 @@ My instagram art page: Fantastic_Mandala <br><br>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=ShrutiMishra-2002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <br><br><br>
 
-<span>CONNECT WITH ME ON &nbsp;</span>
+<!-- <span>CONNECT WITH ME ON &nbsp;</span>
 <span><a  href="https://www.linkedin.com/in/shruti-mishra-b270a7203" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></span>
 <span><a  href="https://www.quora.com/profile/Shruti-Mishra-710"><img alt=" Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a></span>
 <span> <a  href=" https://www.linkedin.com/in/shruti-mishra-b270a7203"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a></span>
-<span> <a  href="https://youtube.com/channel/UCbSEF01aiA7nSP6Pt3Bllmg" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a></span>
+<span> <a  href="https://youtube.com/channel/UCbSEF01aiA7nSP6Pt3Bllmg" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a></span> -->
+ <h4 align="center">Hey,Wait! 👋 don't forget to check out my social media handles <img align="center" src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Handshake.gif" height="30px"></h4>
 
+<p align="center">
+  <code><a href="https://mail.google.com/mail/u/0/?fs=1&to=yadav621gzp@gmail.com.com&tf=cm" target="_blank"> <img src="https://github.com/Vikash-8090-Yadav/Vikash-8090-Yadav/blob/main/images/Social%20Media/Gmail_icon_(2020).svg" alt="Gmail"  width="30px"/> </a></code>
+  <code><a href="https://www.linkedin.com/in/vikash-kumar-yadav-8090/" target="_blank"><img align="center" src="https://github.com/Vikash-8090-Yadav/Vikash-8090-Yadav/blob/main/images/Social%20Media/linked(color).png" alt="Vikash's linkedin" width="30px" /></a></code>  
+  <code><a href="https://wa.me/9592757079" target="_blank"><img align="center" src="https://github.com/Vikash-8090-Yadav/Vikash-8090-Yadav/blob/main/images/Social%20Media/whatsapp(color).png" alt="Vikash's WhatsApp" width="30px" /></a></code>
+  <code><a href="https://www.instagram.com/simple_hello.world/" target="_blank"><img align="center" src="https://github.com/Vikash-8090-Yadav/Vikash-8090-Yadav/blob/main/images/Social%20Media/Instagram%20(color).svg" alt="Vikash's Instagram" width="30px" /></a></code>
+  <code><a href="https://www.facebook.com//vikash.kumaryadav.9461/" target="_blank"><img align="center" src="https://github.com/Vikash-8090-Yadav/Vikash-8090-Yadav/blob/main/images/Social%20Media/facebook%20(color).png" alt="Vikash's Facebook" width="30px" /></a></code>
+  <code><a href="https://twitter.com/@Vikash_8090_b" target="_blank"><img align="center" src="https://github.com/Vikash-8090-Yadav/Vikash-8090-Yadav/blob/main/images/Social%20Media/twitter(color).png" alt="Vikash's Twitter" width="30px" /></a></code>
+  <code><a href="https://github.com/Vikash-8090-Yadav" target="_blank"><img align="center" src="https://github.com/Vikash-8090-Yadav/Vikash-8090-Yadav/blob/main/images/Tech%20Tools/github-2.png" alt="Vikash's GitHub" width="30px"/></a></code> 
+  <code><a href="https://medium.com/@yadav621gzp" target="_blank"><img align="center" src="https://github.com/Vikash-8090-Yadav/Vikash-8090-Yadav/blob/main/images/Tech%20Tools/medium.svg" alt="Vikash's Medium" width="30px"/></a></code>
+  <code><a href="https://stackoverflow.com/users/19193070/vikash-yadav" target="_blank"><img align="center" src="https://github.com/Vikash-8090-Yadav/Vikash-8090-Yadav/blob/main/images/Tech%20Tools/StackOverflow.png" alt="Stack Overflow" width="25px"/></a></code>
+  <code><a href="https://leetcode.com/yadav621gzp/" target="_blank"><img align="center" src="https://github.com/Vikash-8090-Yadav/Vikash-8090-Yadav/blob/main/images/Tech%20Tools/LeetCode.png" alt="LeetCode" width="25px"/></a></code>
+</p>
 <br/>
 <br />
    
