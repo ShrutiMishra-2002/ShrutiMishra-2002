@@ -149,7 +149,7 @@ My instagram art page: Fantastic_Mandala <br><br>
   <code><a href="https://twitter.com/ShrutiM24" target="_blank">
   <img align="center" src="images\Social Media\twitter.svg" alt="Twitter" width="30px" /></a></code>
   <code><a href="https://rb.gy/t5hhvf" target="_blank">
-  <img align="center" src="images\Social Media\youtube.svg" alt="Twitter" width="30px" /></a></code>
+  <img align="center" src="images\Social Media\YouTube-Icon.svg" alt="Twitter" width="30px" /></a></code>
 </p>
 <br/>
 <br />
