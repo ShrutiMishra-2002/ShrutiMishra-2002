@@ -114,17 +114,18 @@ My instagram art page: Fantastic_Mandala <br><br>
   </a>
 </p>
 
-<!-- ### :zap: GitHub Stats 📈
+### :zap: GitHub Stats 📈
 
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikash-8090-yadav&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash-8090-yadav&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikash-8090-yadav&theme=dracula" />
-</p> -->
-<br><br><br>
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ShrutiMishra-2002&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShrutiMishra-2002&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShrutiMishra-2002&theme=dracula" />
+</p>
+
+<!-- <br><br><br>
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"> -->
 <br><br><br>
 
 ![Shruti's github streaks](https://github-readme-streak-stats.herokuapp.com/?user=ShrutiMishra-2002)
