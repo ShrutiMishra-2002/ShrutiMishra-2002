@@ -21,8 +21,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 <!-- ![Shruti Mishra](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/trilokia.svg) -->
 
-## ABOUT ME 💁‍♀️:
-
+### ABOUT ME 💁‍♀️:
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
  <!--<h3 align="center">A GIRL WITH MANY DREAMS </h3>-->
 <p><i> I'm A 3rd Year Artificial Intelligence & Data Science Undergraduate From Thakur College Of Engineering & Technology, Mumbai.
 I'm A Tech Enthusiast,
@@ -62,10 +62,11 @@ My instagram art page: Fantastic_Mandala <br><br>
     <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShrutiMishra-2002	&theme=radical&utcOffset=5"> 
 </a>
 </p>
+
   <br><br><br>
 
-## 🛠 &nbsp;SKILLS:
-
+### 🛠 &nbsp;SKILLS:
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 - 💻LANGUAGES &nbsp;
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
