@@ -104,10 +104,8 @@ My instagram art page: Fantastic_Mandala <br><br>
 
 <!-- ![Shruti's github stats](https://github-readme-stats.vercel.app/api?username=ShrutiMishra-2002&show_icons=true&theme=merko) -->
 <!-- LeetCode Stats Card ❤️ -->
-
-![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
-
 <h2 align="center"><img src="https://github.com/Vikash-8090-Yadav/vikash-8090-yadav/blob/main/images/Tech%20Tools/LeetCode.png" width="20px"> LeetCode Stats Card </h2>
+![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 <p align="center">
   <a href="https://leetcode.com/mishrashru2002/" target="_blank">
     <img width=60% src="https://leetcode.card.workers.dev/?username=mishrashru2002&theme=dark&extension=activity&border_radius=10"/>
@@ -123,12 +121,6 @@ My instagram art page: Fantastic_Mandala <br><br>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShrutiMishra-2002&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShrutiMishra-2002&theme=dracula" />
 </p>
-
-<!-- <br><br><br>
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"> -->
-<br><br><br>
-
-![Shruti's github streaks](https://github-readme-streak-stats.herokuapp.com/?user=ShrutiMishra-2002)
 
 <!--
 <br><br><br>
