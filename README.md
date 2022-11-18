@@ -123,7 +123,9 @@ My instagram art page: Fantastic_Mandala <br><br>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=ShrutiMishra-2002&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <br><br><br>
+[![@shrutimishra's Holopin board](https://holopin.me/shrutimishra)](https://holopin.io/@shrutimishra)
 
+<br><br><br>
  <h4 align="center">Wait!👋 don't forget to check out my social media handles <img align="center" src="images\Handshake.gif" height="30px"></h4>
 
 <p align="center">
