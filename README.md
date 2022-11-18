@@ -115,7 +115,8 @@ My instagram art page: Fantastic_Mandala <br><br>
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShrutiMishra-2002&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ShrutiMishra-2002&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" />
+ <br><br>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShrutiMishra-2002&theme=dracula" />
 </p>
 
