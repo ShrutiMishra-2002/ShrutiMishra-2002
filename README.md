@@ -60,7 +60,7 @@ My instagram art page: Fantastic_Mandala <br><br>
 <p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ShrutiMishra-2002&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
     <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShrutiMishra-2002&theme=dracula" alt=""><br>
     <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShrutiMishra-2002&theme=dracula">
-    <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShrutiMishra-2002&theme=radical&utcOffset=5"> 
+<!--     <img width="65%" src= "https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShrutiMishra-2002&theme=radical&utcOffset=5">  -->
 </a>
 </p>
 
