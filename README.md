@@ -25,7 +25,7 @@
 
  <!--<h3 align="center">A GIRL WITH MANY DREAMS </h3>-->
 
-<p><i> I'm A 4th Year Artificial Intelligence & Data Science Undergraduate From Thakur College Of Engineering & Technology, Mumbai.
+<p><i> I'm An Artificial Intelligence & Data Science Graduate..
 I'm A Tech Enthusiast,
 Currently Exploring The Domains Of Web Development, Android Development, Python GUI And Open CV By Implementing Them To My Projects.
 I Love Contributing To Open Source Community.
