@@ -32,13 +32,6 @@ I Love Contributing To Open Source Community.
 
 </i></p>
 
-:octocat: I am a part of CODING NINJAS AND CODXCRPTY COMMUNITY<br>
-& also a [**CAMPUS AMBASSADOR**]:octocat:!
-
-👩‍💻 Former Android Developer Intern at letsgrowmore
-
-:red_circle: :yellow_circle: :green_circle: :large_blue_circle: Graphic Core Committee Member at [**GOOGLE DEVELOPER STUDENT CLUB**]
-
 ⚡ Fun fact: You will always find me online on linkedin 😬.
 
 <p>✍🏻 I love 💝 to create artworks of all kind,<br><br>
